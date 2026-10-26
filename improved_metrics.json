@@ -1,0 +1,11 @@
+{
+  "selected_config": {
+    "trend": "piecewise",
+    "weight_power": 0.5
+  },
+  "cv_mae_original": 751724.895989953,
+  "cv_mae_improved": 644408.909656178,
+  "reused_december_mae_original": 791467.4147302388,
+  "reused_december_mae_improved": 621324.9400112985,
+  "note": "December is reused validation, not a fresh independent holdout."
+}
