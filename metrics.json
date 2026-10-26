@@ -1,0 +1,14 @@
+{
+  "best_model": "OLS: сочетания, trend=piecewise, poly=True",
+  "best_config": {
+    "target": "log",
+    "imputation": "constant",
+    "expanded": true,
+    "joint": true,
+    "trend": "piecewise",
+    "poly": true
+  },
+  "validation_mae": 734837.1382168828,
+  "audit_mae": 791467.4147302388,
+  "audit_baseline_mae": 2736558.4183217036
+}
