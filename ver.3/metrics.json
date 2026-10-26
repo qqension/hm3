@@ -1,0 +1,10 @@
+{
+  "best_config": {
+    "trend": "blend",
+    "mixing": 1.0,
+    "weight_power": 0.5
+  },
+  "cv_mae_v2": 646112.7474569991,
+  "cv_mae_v3": 620808.0021938016,
+  "note": "Repeated temporal validation; no fresh independent holdout."
+}
